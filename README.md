@@ -1,13 +1,29 @@
-# Shape Tracker Example
+# (Application Name)
 
-## Description:
+#### (Brief Description of Application)
 
-This is an example repo featuring a basic setup for a shape tracker project
+#### By (Your Name Here)
 
-## Instal Instructions:
+## Technologies Used
 
-- Clone this repository
-- Using terminal, navigate to the root folder of this project by running the command `cd shape-tracker-example`
-- Install required dependencies by running the command `npm install`
-- To build the project and serve all files to the "dist" directory, run the command `npm run build`
-- To run the dev server, run the command `npm run start`
+* _List all_
+* _the major technologies_
+* _you used in your project_
+* _here_
+
+## Description
+
+## Setup/Installation Requirements
+
+* _This is a great place_
+* _to list setup instructions_
+* _in a simple_
+* _easy-to-understand_
+* _format_
+
+## Known Bugs
+
+* _Any known issues_
+* _should go here_
+
+## License
